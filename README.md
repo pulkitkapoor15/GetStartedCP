@@ -1,4 +1,4 @@
-# GetStartedCP
+# Get Started with Competitive Programming
 For all those who want to get started with Competitive Programming .
 Hello This is Pulkit Kapoor (pulkitkapoor15) and will guide you to get started with Competitive Programming.
 

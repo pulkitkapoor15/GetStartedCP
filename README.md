@@ -6,10 +6,11 @@ If you are motivated enough to get started and have the patience and energy to l
 
 To get Started , This will contain various topics as mentioned below:
 
-1. Motivation
-2. Do's and Dont's
-3. How to get started
-4. Some Algorithms and Advance Data Structures to be used in this world.
-5. Links to various problems based on subtopics.
+1. Introduction
+2. Motivation
+3. Do's and Dont's
+4. How to get started
+5. Some Algorithms and Advance Data Structures to be used in this world.
+6. Links to various problems based on subtopics.
 
 Hope you have a nice time here.
